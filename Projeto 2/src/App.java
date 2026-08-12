@@ -29,7 +29,7 @@ public class App {
                     JOptionPane.showMessageDialog(null, "Você errou! Você tem ainda " + attempts + " tentativa(s)");
 
 
-                    
+
                     JOptionPane.showMessageDialog(null, "Infelizmente você perdeu!");
                 }
             }
